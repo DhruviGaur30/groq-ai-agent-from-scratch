@@ -1,0 +1,70 @@
+--- Research Output ---
+Timestamp: 2025-08-17 22:36:21
+
+latest research papers on AI agents
+
+--- Research Output ---
+Timestamp: 2025-08-17 22:36:25
+
+{"topic": "AI agents", "summary": "The field of AI agents is vast and encompasses a wide range of topics, including multi-agent systems, reinforcement learning, context-aware systems, and the integration of large language models (LLMs) into agent-based systems.", "sources": ["arXiv", "Wikipedia"], "tools_used": ["search", "wikipedia", "save_text_to_file"]}
+
+--- Research Output ---
+Timestamp: 2025-08-17 22:36:26
+
+{"topic": "AI agents", "summary": "The field of AI agents is vast and encompasses a wide range of topics, including multi-agent systems, reinforcement learning, context-aware systems, and the integration of large language models (LLMs) into agent-based systems.", "sources": ["arXiv", "Wikipedia"], "tools_used": ["search", "wikipedia", "save_text_to_file"]}
+
+--- Research Output ---
+Timestamp: 2025-08-17 22:36:26
+
+{"topic": "AI agents", "summary": "The field of AI agents is vast and encompasses a wide range of topics, including multi-agent systems, reinforcement learning, context-aware systems, and the integration of large language models (LLMs) into agent-based systems.", "sources": ["arXiv", "Wikipedia"], "tools_used": ["search", "wikipedia", "save_text_to_file"]}
+
+--- Research Output ---
+Timestamp: 2025-08-17 22:36:26
+
+{"topic": "AI agents", "summary": "The field of AI agents is vast and encompasses a wide range of topics, including multi-agent systems, reinforcement learning, context-aware systems, and the integration of large language models (LLMs) into agent-based systems.", "sources": ["arXiv", "Wikipedia"], "tools_used": ["search", "wikipedia", "save_text_to_file"]}
+
+--- Research Output ---
+Timestamp: 2025-08-17 22:36:27
+
+{"topic": "AI agents", "summary": "The field of AI agents is vast and encompasses a wide range of topics, including multi-agent systems, reinforcement learning, context-aware systems, and the integration of large language models (LLMs) into agent-based systems.", "sources": ["arXiv", "Wikipedia"], "tools_used": ["search", "wikipedia", "save_text_to_file"]}
+
+--- Research Output ---
+Timestamp: 2025-08-17 22:36:27
+
+{"topic": "AI agents", "summary": "The field of AI agents is vast and encompasses a wide range of topics, including multi-agent systems, reinforcement learning, context-aware systems, and the integration of large language models (LLMs) into agent-based systems.", "sources": ["arXiv", "Wikipedia"], "tools_used": ["search", "wikipedia", "save_text_to_file"]}
+
+--- Research Output ---
+Timestamp: 2025-08-17 22:36:28
+
+{"topic": "AI agents", "summary": "The field of AI agents is vast and encompasses a wide range of topics, including multi-agent systems, reinforcement learning, context-aware systems, and the integration of large language models (LLMs) into agent-based systems.", "sources": ["arXiv", "Wikipedia"], "tools_used": ["search", "wikipedia", "save_text_to_file"]}
+
+--- Research Output ---
+Timestamp: 2025-08-17 22:36:28
+
+{"topic": "AI agents", "summary": "The field of AI agents is vast and encompasses a wide range of topics, including multi-agent systems, reinforcement learning, context-aware systems, and the integration of large language models (LLMs) into agent-based systems.", "sources": ["arXiv", "Wikipedia"], "tools_used": ["search", "wikipedia", "save_text_to_file"]}
+
+--- Research Output ---
+Timestamp: 2025-08-17 22:36:39
+
+{"topic": "AI agents", "summary": "The field of AI agents is vast and encompasses a wide range of topics, including multi-agent systems, reinforcement learning, context-aware systems, and the integration of large language models (LLMs) into agent-based systems.", "sources": ["arXiv", "Wikipedia"], "tools_used": ["search", "wikipedia", "save_text_to_file"]}
+
+--- Research Output ---
+Timestamp: 2025-08-17 22:36:51
+
+{"topic": "AI agents", "summary": "The field of AI agents is vast and encompasses a wide range of topics, including multi-agent systems, reinforcement learning, context-aware systems, and the integration of large language models (LLMs) into agent-based systems.", "sources": ["arXiv", "Wikipedia"], "tools_used": ["search", "wikipedia", "save_text_to_file"]}
+
+--- Research Output ---
+Timestamp: 2025-08-17 22:37:03
+
+{"topic": "AI agents", "summary": "The field of AI agents is vast and encompasses a wide range of topics, including multi-agent systems, reinforcement learning, context-aware systems, and the integration of large language models (LLMs) into agent-based systems.", "sources": ["arXiv", "Wikipedia"], "tools_used": ["search", "wikipedia", "save_text_to_file"]}
+
+--- Research Output ---
+Timestamp: 2025-08-17 22:37:16
+
+{"topic": "AI agents", "summary": "The field of AI agents is vast and encompasses a wide range of topics, including multi-agent systems, reinforcement learning, context-aware systems, and the integration of large language models (LLMs) into agent-based systems.", "sources": ["arXiv", "Wikipedia"], "tools_used": ["search", "wikipedia", "save_text_to_file"]}
+
+--- Research Output ---
+Timestamp: 2025-08-17 22:37:28
+
+{"topic": "AI agents", "summary": "The field of AI agents is vast and encompasses a wide range of topics, including multi-agent systems, reinforcement learning, context-aware systems, and the integration of large language models (LLMs) into agent-based systems.", "sources": ["arXiv", "Wikipedia"], "tools_used": ["search", "wikipedia", "save_text_to_file"]}
+
