@@ -1,9 +1,8 @@
-langchain 
-wikipedia 
-langchain-community 
-langchain-openai
-langchain-anthropic
-langchain-mistral
+langchain
+langchain-community
+langchain-groq
+wikipedia
 python-dotenv
 pydantic
 duckduckgo-search
+
